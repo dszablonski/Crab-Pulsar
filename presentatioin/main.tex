@@ -1,0 +1,39 @@
+% !BIB TS-program = biber
+\documentclass{beamer}
+\usetheme{CambridgeUS}
+\setbeamertemplate{caption}[numbered]
+\usepackage{amsmath}
+\usepackage{subcaption}
+
+\usepackage{physics}
+\usepackage[backend=biber, style=nature]{biblatex}
+\usepackage{siunitx}
+\usepackage{animate}
+
+\newcommand{\comment}[1]{}
+
+\title{Crab Pulsar}
+\subtitle{}
+\author{Dominik Szablonski and Nicholas Smith}
+\date{\today}
+
+\begin{document}
+	\begin{frame}
+		\titlepage
+	\end{frame}
+	\section{Introduction}
+	\begin{frame}{What is a Pulsar?}
+		\begin{figure}
+			\centering
+		\animategraphics[loop,width=0.9\textwidth]{10}{pulsar_}{1}{48}
+		\caption{https://lilith.fisica.ufmg.br/~dsoares/extn/ogs/ogs-psr.htm}
+		\end{figure}
+	\end{frame}
+	\begin{frame}{Aims and Goals of the Experiment}
+		\begin{enumerate}
+			\item Measure DMs of multiple pulsars and find their distance from the earth.
+			\item Measure the period and identify pulsars by Fourier analysis of their data.
+			\item Measure the period of the Crab Pulsar a period of time using pulsar timing techniques to find its period derivative, and hence estimate its surface magnetic field and age.
+		\end{enumerate}
+	\end{frame}
+\end{document}

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.9.21)  2 DEC 2025 12:41
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.9.21)  2 DEC 2025 13:36
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1348,299 +1348,317 @@ or `english'. on input line 20.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<pulsar_1.png, id=69, 2999.205pt x 1686.3pt>
+<pulsar_1.png, id=73, 2999.205pt x 1686.3pt>
 File: pulsar_1.png Graphic file (type png)
 <use pulsar_1.png>
-Package luatex.def Info: pulsar_1.png  used on input line 27.
+Package luatex.def Info: pulsar_1.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_1.png>
 <a0,fr0>
-<pulsar_2.png, id=73, 2999.205pt x 1686.3pt>
+<pulsar_2.png, id=77, 2999.205pt x 1686.3pt>
 File: pulsar_2.png Graphic file (type png)
 <use pulsar_2.png>
-Package luatex.def Info: pulsar_2.png  used on input line 27.
+Package luatex.def Info: pulsar_2.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_2.png> <a0,fr1>
-<pulsar_3.png, id=77, 2999.205pt x 1686.3pt>
+<pulsar_3.png, id=81, 2999.205pt x 1686.3pt>
 File: pulsar_3.png Graphic file (type png)
 <use pulsar_3.png>
-Package luatex.def Info: pulsar_3.png  used on input line 27.
+Package luatex.def Info: pulsar_3.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_3.png> <a0,fr2>
-<pulsar_4.png, id=81, 2999.205pt x 1686.3pt>
+<pulsar_4.png, id=85, 2999.205pt x 1686.3pt>
 File: pulsar_4.png Graphic file (type png)
 <use pulsar_4.png>
-Package luatex.def Info: pulsar_4.png  used on input line 27.
+Package luatex.def Info: pulsar_4.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_4.png>
 <a0,fr3>
-<pulsar_5.png, id=85, 2999.205pt x 1686.3pt>
+<pulsar_5.png, id=89, 2999.205pt x 1686.3pt>
 File: pulsar_5.png Graphic file (type png)
 <use pulsar_5.png>
-Package luatex.def Info: pulsar_5.png  used on input line 27.
+Package luatex.def Info: pulsar_5.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_5.png> <a0,fr4>
-<pulsar_6.png, id=89, 2999.205pt x 1686.3pt>
+<pulsar_6.png, id=93, 2999.205pt x 1686.3pt>
 File: pulsar_6.png Graphic file (type png)
 <use pulsar_6.png>
-Package luatex.def Info: pulsar_6.png  used on input line 27.
+Package luatex.def Info: pulsar_6.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_6.png> <a0,fr5>
-<pulsar_7.png, id=93, 2999.205pt x 1686.3pt>
+<pulsar_7.png, id=97, 2999.205pt x 1686.3pt>
 File: pulsar_7.png Graphic file (type png)
 <use pulsar_7.png>
-Package luatex.def Info: pulsar_7.png  used on input line 27.
+Package luatex.def Info: pulsar_7.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_7.png>
 <a0,fr6>
-<pulsar_8.png, id=97, 2999.205pt x 1686.3pt>
+<pulsar_8.png, id=101, 2999.205pt x 1686.3pt>
 File: pulsar_8.png Graphic file (type png)
 <use pulsar_8.png>
-Package luatex.def Info: pulsar_8.png  used on input line 27.
+Package luatex.def Info: pulsar_8.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_8.png> <a0,fr7>
-<pulsar_9.png, id=101, 2999.205pt x 1686.3pt>
+<pulsar_9.png, id=105, 2999.205pt x 1686.3pt>
 File: pulsar_9.png Graphic file (type png)
 <use pulsar_9.png>
-Package luatex.def Info: pulsar_9.png  used on input line 27.
+Package luatex.def Info: pulsar_9.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_9.png> <a0,fr8>
-<pulsar_10.png, id=105, 2999.205pt x 1686.3pt>
+<pulsar_10.png, id=109, 2999.205pt x 1686.3pt>
 File: pulsar_10.png Graphic file (type png)
 <use pulsar_10.png>
-Package luatex.def Info: pulsar_10.png  used on input line 27.
+Package luatex.def Info: pulsar_10.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_10.png>
 <a0,fr9>
-<pulsar_11.png, id=109, 2999.205pt x 1686.3pt>
+<pulsar_11.png, id=113, 2999.205pt x 1686.3pt>
 File: pulsar_11.png Graphic file (type png)
 <use pulsar_11.png>
-Package luatex.def Info: pulsar_11.png  used on input line 27.
+Package luatex.def Info: pulsar_11.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_11.png> <a0,fr10>
-<pulsar_12.png, id=113, 2999.205pt x 1686.3pt>
+<pulsar_12.png, id=117, 2999.205pt x 1686.3pt>
 File: pulsar_12.png Graphic file (type png)
 <use pulsar_12.png>
-Package luatex.def Info: pulsar_12.png  used on input line 27.
+Package luatex.def Info: pulsar_12.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_12.png> <a0,fr11>
-<pulsar_13.png, id=117, 2999.205pt x 1686.3pt>
+<pulsar_13.png, id=121, 2999.205pt x 1686.3pt>
 File: pulsar_13.png Graphic file (type png)
 <use pulsar_13.png>
-Package luatex.def Info: pulsar_13.png  used on input line 27.
+Package luatex.def Info: pulsar_13.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_13.png> <a0,fr12>
-<pulsar_14.png, id=121, 2999.205pt x 1686.3pt>
+<pulsar_14.png, id=125, 2999.205pt x 1686.3pt>
 File: pulsar_14.png Graphic file (type png)
 <use pulsar_14.png>
-Package luatex.def Info: pulsar_14.png  used on input line 27.
+Package luatex.def Info: pulsar_14.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_14.png> <a0,fr13>
-<pulsar_15.png, id=125, 2999.205pt x 1686.3pt>
+<pulsar_15.png, id=129, 2999.205pt x 1686.3pt>
 File: pulsar_15.png Graphic file (type png)
 <use pulsar_15.png>
-Package luatex.def Info: pulsar_15.png  used on input line 27.
+Package luatex.def Info: pulsar_15.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_15.png> <a0,fr14>
-<pulsar_16.png, id=129, 2999.205pt x 1686.3pt>
+<pulsar_16.png, id=133, 2999.205pt x 1686.3pt>
 File: pulsar_16.png Graphic file (type png)
 <use pulsar_16.png>
-Package luatex.def Info: pulsar_16.png  used on input line 27.
+Package luatex.def Info: pulsar_16.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_16.png> <a0,fr15>
-<pulsar_17.png, id=133, 2999.205pt x 1686.3pt>
+<pulsar_17.png, id=137, 2999.205pt x 1686.3pt>
 File: pulsar_17.png Graphic file (type png)
 <use pulsar_17.png>
-Package luatex.def Info: pulsar_17.png  used on input line 27.
+Package luatex.def Info: pulsar_17.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_17.png> <a0,fr16>
-<pulsar_18.png, id=137, 2999.205pt x 1686.3pt>
+<pulsar_18.png, id=141, 2999.205pt x 1686.3pt>
 File: pulsar_18.png Graphic file (type png)
 <use pulsar_18.png>
-Package luatex.def Info: pulsar_18.png  used on input line 27.
+Package luatex.def Info: pulsar_18.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_18.png> <a0,fr17>
-<pulsar_19.png, id=141, 2999.205pt x 1686.3pt>
+<pulsar_19.png, id=145, 2999.205pt x 1686.3pt>
 File: pulsar_19.png Graphic file (type png)
 <use pulsar_19.png>
-Package luatex.def Info: pulsar_19.png  used on input line 27.
+Package luatex.def Info: pulsar_19.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_19.png> <a0,fr18>
-<pulsar_20.png, id=145, 2999.205pt x 1686.3pt>
+<pulsar_20.png, id=149, 2999.205pt x 1686.3pt>
 File: pulsar_20.png Graphic file (type png)
 <use pulsar_20.png>
-Package luatex.def Info: pulsar_20.png  used on input line 27.
+Package luatex.def Info: pulsar_20.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_20.png> <a0,fr19>
-<pulsar_21.png, id=149, 2999.205pt x 1686.3pt>
+<pulsar_21.png, id=153, 2999.205pt x 1686.3pt>
 File: pulsar_21.png Graphic file (type png)
 <use pulsar_21.png>
-Package luatex.def Info: pulsar_21.png  used on input line 27.
+Package luatex.def Info: pulsar_21.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_21.png> <a0,fr20>
-<pulsar_22.png, id=153, 2999.205pt x 1686.3pt>
+<pulsar_22.png, id=157, 2999.205pt x 1686.3pt>
 File: pulsar_22.png Graphic file (type png)
 <use pulsar_22.png>
-Package luatex.def Info: pulsar_22.png  used on input line 27.
+Package luatex.def Info: pulsar_22.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_22.png> <a0,fr21>
-<pulsar_23.png, id=157, 2999.205pt x 1686.3pt>
+<pulsar_23.png, id=161, 2999.205pt x 1686.3pt>
 File: pulsar_23.png Graphic file (type png)
 <use pulsar_23.png>
-Package luatex.def Info: pulsar_23.png  used on input line 27.
+Package luatex.def Info: pulsar_23.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_23.png> <a0,fr22>
-<pulsar_24.png, id=161, 2999.205pt x 1686.3pt>
+<pulsar_24.png, id=165, 2999.205pt x 1686.3pt>
 File: pulsar_24.png Graphic file (type png)
 <use pulsar_24.png>
-Package luatex.def Info: pulsar_24.png  used on input line 27.
+Package luatex.def Info: pulsar_24.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_24.png> <a0,fr23>
-<pulsar_25.png, id=165, 2999.205pt x 1686.3pt>
+<pulsar_25.png, id=169, 2999.205pt x 1686.3pt>
 File: pulsar_25.png Graphic file (type png)
 <use pulsar_25.png>
-Package luatex.def Info: pulsar_25.png  used on input line 27.
+Package luatex.def Info: pulsar_25.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_25.png> <a0,fr24>
-<pulsar_26.png, id=169, 2999.205pt x 1686.3pt>
+<pulsar_26.png, id=173, 2999.205pt x 1686.3pt>
 File: pulsar_26.png Graphic file (type png)
 <use pulsar_26.png>
-Package luatex.def Info: pulsar_26.png  used on input line 27.
+Package luatex.def Info: pulsar_26.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_26.png> <a0,fr25>
-<pulsar_27.png, id=173, 2999.205pt x 1686.3pt>
+<pulsar_27.png, id=177, 2999.205pt x 1686.3pt>
 File: pulsar_27.png Graphic file (type png)
 <use pulsar_27.png>
-Package luatex.def Info: pulsar_27.png  used on input line 27.
+Package luatex.def Info: pulsar_27.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_27.png> <a0,fr26>
-<pulsar_28.png, id=177, 2999.205pt x 1686.3pt>
+<pulsar_28.png, id=181, 2999.205pt x 1686.3pt>
 File: pulsar_28.png Graphic file (type png)
 <use pulsar_28.png>
-Package luatex.def Info: pulsar_28.png  used on input line 27.
+Package luatex.def Info: pulsar_28.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_28.png> <a0,fr27>
-<pulsar_29.png, id=181, 2999.205pt x 1686.3pt>
+<pulsar_29.png, id=185, 2999.205pt x 1686.3pt>
 File: pulsar_29.png Graphic file (type png)
 <use pulsar_29.png>
-Package luatex.def Info: pulsar_29.png  used on input line 27.
+Package luatex.def Info: pulsar_29.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_29.png> <a0,fr28>
-<pulsar_30.png, id=185, 2999.205pt x 1686.3pt>
+<pulsar_30.png, id=189, 2999.205pt x 1686.3pt>
 File: pulsar_30.png Graphic file (type png)
 <use pulsar_30.png>
-Package luatex.def Info: pulsar_30.png  used on input line 27.
+Package luatex.def Info: pulsar_30.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_30.png> <a0,fr29>
-<pulsar_31.png, id=189, 2999.205pt x 1686.3pt>
+<pulsar_31.png, id=193, 2999.205pt x 1686.3pt>
 File: pulsar_31.png Graphic file (type png)
 <use pulsar_31.png>
-Package luatex.def Info: pulsar_31.png  used on input line 27.
+Package luatex.def Info: pulsar_31.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_31.png> <a0,fr30>
-<pulsar_32.png, id=193, 2999.205pt x 1686.3pt>
+<pulsar_32.png, id=197, 2999.205pt x 1686.3pt>
 File: pulsar_32.png Graphic file (type png)
 <use pulsar_32.png>
-Package luatex.def Info: pulsar_32.png  used on input line 27.
+Package luatex.def Info: pulsar_32.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_32.png> <a0,fr31>
-<pulsar_33.png, id=197, 2999.205pt x 1686.3pt>
+<pulsar_33.png, id=201, 2999.205pt x 1686.3pt>
 File: pulsar_33.png Graphic file (type png)
 <use pulsar_33.png>
-Package luatex.def Info: pulsar_33.png  used on input line 27.
+Package luatex.def Info: pulsar_33.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_33.png> <a0,fr32>
-<pulsar_34.png, id=201, 2999.205pt x 1686.3pt>
+<pulsar_34.png, id=205, 2999.205pt x 1686.3pt>
 File: pulsar_34.png Graphic file (type png)
 <use pulsar_34.png>
-Package luatex.def Info: pulsar_34.png  used on input line 27.
+Package luatex.def Info: pulsar_34.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_34.png> <a0,fr33>
-<pulsar_35.png, id=205, 2999.205pt x 1686.3pt>
+<pulsar_35.png, id=209, 2999.205pt x 1686.3pt>
 File: pulsar_35.png Graphic file (type png)
 <use pulsar_35.png>
-Package luatex.def Info: pulsar_35.png  used on input line 27.
+Package luatex.def Info: pulsar_35.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_35.png> <a0,fr34>
-<pulsar_36.png, id=209, 2999.205pt x 1686.3pt>
+<pulsar_36.png, id=213, 2999.205pt x 1686.3pt>
 File: pulsar_36.png Graphic file (type png)
 <use pulsar_36.png>
-Package luatex.def Info: pulsar_36.png  used on input line 27.
+Package luatex.def Info: pulsar_36.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_36.png> <a0,fr35>
-<pulsar_37.png, id=213, 2999.205pt x 1686.3pt>
+<pulsar_37.png, id=217, 2999.205pt x 1686.3pt>
 File: pulsar_37.png Graphic file (type png)
 <use pulsar_37.png>
-Package luatex.def Info: pulsar_37.png  used on input line 27.
+Package luatex.def Info: pulsar_37.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_37.png> <a0,fr36>
-<pulsar_38.png, id=217, 2999.205pt x 1686.3pt>
+<pulsar_38.png, id=221, 2999.205pt x 1686.3pt>
 File: pulsar_38.png Graphic file (type png)
 <use pulsar_38.png>
-Package luatex.def Info: pulsar_38.png  used on input line 27.
+Package luatex.def Info: pulsar_38.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_38.png> <a0,fr37>
-<pulsar_39.png, id=221, 2999.205pt x 1686.3pt>
+<pulsar_39.png, id=225, 2999.205pt x 1686.3pt>
 File: pulsar_39.png Graphic file (type png)
 <use pulsar_39.png>
-Package luatex.def Info: pulsar_39.png  used on input line 27.
+Package luatex.def Info: pulsar_39.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_39.png>
 <a0,fr38>
-<pulsar_40.png, id=225, 2999.205pt x 1686.3pt>
+<pulsar_40.png, id=229, 2999.205pt x 1686.3pt>
 File: pulsar_40.png Graphic file (type png)
 <use pulsar_40.png>
-Package luatex.def Info: pulsar_40.png  used on input line 27.
+Package luatex.def Info: pulsar_40.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_40.png> <a0,fr39>
-<pulsar_41.png, id=229, 2999.205pt x 1686.3pt>
+<pulsar_41.png, id=233, 2999.205pt x 1686.3pt>
 File: pulsar_41.png Graphic file (type png)
 <use pulsar_41.png>
-Package luatex.def Info: pulsar_41.png  used on input line 27.
+Package luatex.def Info: pulsar_41.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_41.png> <a0,fr40>
-<pulsar_42.png, id=233, 2999.205pt x 1686.3pt>
+<pulsar_42.png, id=237, 2999.205pt x 1686.3pt>
 File: pulsar_42.png Graphic file (type png)
 <use pulsar_42.png>
-Package luatex.def Info: pulsar_42.png  used on input line 27.
+Package luatex.def Info: pulsar_42.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_42.png> <a0,fr41>
-<pulsar_43.png, id=237, 2999.205pt x 1686.3pt>
+<pulsar_43.png, id=241, 2999.205pt x 1686.3pt>
 File: pulsar_43.png Graphic file (type png)
 <use pulsar_43.png>
-Package luatex.def Info: pulsar_43.png  used on input line 27.
+Package luatex.def Info: pulsar_43.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_43.png> <a0,fr42>
-<pulsar_44.png, id=241, 2999.205pt x 1686.3pt>
+<pulsar_44.png, id=245, 2999.205pt x 1686.3pt>
 File: pulsar_44.png Graphic file (type png)
 <use pulsar_44.png>
-Package luatex.def Info: pulsar_44.png  used on input line 27.
+Package luatex.def Info: pulsar_44.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_44.png> <a0,fr43>
-<pulsar_45.png, id=245, 2999.205pt x 1686.3pt>
+<pulsar_45.png, id=249, 2999.205pt x 1686.3pt>
 File: pulsar_45.png Graphic file (type png)
 <use pulsar_45.png>
-Package luatex.def Info: pulsar_45.png  used on input line 27.
+Package luatex.def Info: pulsar_45.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_45.png> <a0,fr44>
-<pulsar_46.png, id=249, 2999.205pt x 1686.3pt>
+<pulsar_46.png, id=253, 2999.205pt x 1686.3pt>
 File: pulsar_46.png Graphic file (type png)
 <use pulsar_46.png>
-Package luatex.def Info: pulsar_46.png  used on input line 27.
+Package luatex.def Info: pulsar_46.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_46.png> <a0,fr45>
-<pulsar_47.png, id=253, 2999.205pt x 1686.3pt>
+<pulsar_47.png, id=257, 2999.205pt x 1686.3pt>
 File: pulsar_47.png Graphic file (type png)
 <use pulsar_47.png>
-Package luatex.def Info: pulsar_47.png  used on input line 27.
+Package luatex.def Info: pulsar_47.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_47.png> <a0,fr46>
-<pulsar_48.png, id=257, 2999.205pt x 1686.3pt>
+<pulsar_48.png, id=261, 2999.205pt x 1686.3pt>
 File: pulsar_48.png Graphic file (type png)
 <use pulsar_48.png>
-Package luatex.def Info: pulsar_48.png  used on input line 27.
+Package luatex.def Info: pulsar_48.png  used on input line 31.
 (luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
 <./pulsar_48.png> <a0,fr47>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <7> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
+
 
 [2
 
@@ -1649,6 +1667,35 @@ Package luatex.def Info: pulsar_48.png  used on input line 27.
 [3
 
 ]
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 55.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 55.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 55.
+
+
+[4
+
+]
+
+[5
+
+]
+
+[6
+
+]
+<pulsartiming.png, id=491, 1391.95032pt x 517.935pt>
+File: pulsartiming.png Graphic file (type png)
+<use pulsartiming.png>
+Package luatex.def Info: pulsartiming.png  used on input line 96.
+(luatex.def)             Requested size: 273.83733pt x 101.886pt.
+
+
+[7
+
+<./pulsartiming.png>]
 \tf@nav=\write7
 
 \openout7 = main.nav
@@ -1664,31 +1711,40 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 47949AC7C3DCEDDDEEFE3CD50587DDA1;103.
+(rerunfilecheck)             Checksum: 2A27D8E326490DEE55757663B3AE94A3;201.
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 37314 strings out of 475512
+ 37505 strings out of 475512
  125165,1977958 words of node,token memory allocated
- 6920 words of node memory still in use:
-   87 hlist, 11 vlist, 12 rule, 31 disc, 8 local_par, 185 glue, 30 kern, 28 pena
-lty, 343 glyph, 196 attribute, 74 glue_spec, 196 attribute_list, 4 write, 51 pdf
-_literal, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_action, 52 pdf_colorstack node
-s
-   avail lists: 1:3,2:652,3:443,4:329,5:172,6:61,7:1441,9:622,10:14,11:77
- 59332 multiletter control sequences out of 65536+600000
- 20 fonts using 1381871 bytes
+ 4228 words of node memory still in use:
+   62 hlist, 12 vlist, 12 rule, 13 disc, 7 local_par, 6 math, 119 glue, 34 kern,
+ 28 penalty, 140 glyph, 129 attribute, 74 glue_spec, 129 attribute_list, 4 write
+, 3 pdf_literal, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_action, 40 pdf_colorsta
+ck, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 1:3,2:784,3:488,4:341,5:306,6:62,7:2788,8:59,9:646,10:15,11:160
+ 59502 multiletter control sequences out of 65536+600000
+ 66 fonts using 4928175 bytes
  128i,16n,116p,692b,919s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/opentype/public/lm/lmsans8-regular.otf></usr/share/texmf
-/fonts/opentype/public/lm/lmsans10-regular.otf></usr/share/texmf/fonts/opentype/
-public/lm/lmsans12-regular.otf>
-Output written on main.pdf (3 pages, 2133080 bytes).
+</usr/share/texmf/fonts/opentype/public/lm/lmsans8-oblique.otf></usr/share/texmf
+/fonts/opentype/public/lm/lmsans10-oblique.otf></usr/share/texmf/fonts/opentype/
+public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans
+8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-regular.otf></
+usr/share/texmf/fonts/opentype/public/lm/lmsans12-regular.otf></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb>
+Output written on main.pdf (7 pages, 2708921 bytes).
 
-PDF statistics: 401 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
- 8 named destinations out of 1000 (max. 131072)
- 609 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 584 PDF objects out of 1000 (max. 8388607)
+ 368 compressed objects within 4 object streams
+ 17 named destinations out of 1000 (max. 131072)
+ 627 words of extra memory for PDF output out of 10000 (max. 100000000)
 

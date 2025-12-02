@@ -26,14 +26,72 @@
 		\begin{figure}
 			\centering
 		\animategraphics[loop,width=0.9\textwidth]{10}{pulsar_}{1}{48}
-		\caption{https://lilith.fisica.ufmg.br/~dsoares/extn/ogs/ogs-psr.htm}
+		\caption{\url{https://lilith.fisica.ufmg.br/\~dsoares/extn/ogs/ogs-psr.htm}}
 		\end{figure}
 	\end{frame}
 	\begin{frame}{Aims and Goals of the Experiment}
 		\begin{enumerate}
-			\item Measure DMs of multiple pulsars and find their distance from the earth.
+			\item Measure dispersion measures (DMs) of multiple pulsars and find their distance from the earth.
 			\item Measure the period and identify pulsars by Fourier analysis of their data.
 			\item Measure the period of the Crab Pulsar a period of time using pulsar timing techniques to find its period derivative, and hence estimate its surface magnetic field and age.
 		\end{enumerate}
+	\end{frame}
+	\section{Methodology}
+	\begin{frame}{Dispersion Measures}
+		\begin{itemize}
+			\item Pulsar beams "spread out" as they travel through the intergalactic medium.
+			\begin{itemize}
+				\item Higher frequency signals arrive before low frequency ones.
+			\end{itemize}
+			\item The delay caused due to dispersion is,
+			\begin{equation}
+				\Delta \tau = 
+			\end{equation}
+			where
+			\begin{equation}
+				DM = 
+			\end{equation}
+		\end{itemize}
+	\end{frame}
+	\begin{frame}{Dispersion Measures}
+		\begin{itemize}
+			\item Pulse broadening decreases amplitude
+			\begin{itemize}
+				\item No pulse broadening, maximum amplitude.
+			\end{itemize}
+			\item Generate DM values and fit the data to a $-x^2$ graph to find DM
+			\begin{itemize}
+				\item In reality, data is Lorentzian but interval of fitting chosen so that the first order Taylor expansion would be a valid choice.
+			\end{itemize}
+			\item This method is limited in that it produces high error, but can identify a sensible DM for noisy data.
+		\end{itemize}
+	\end{frame}
+	\begin{frame}{Searching for Pulsars via Fourier Analysis}
+		\begin{itemize}
+			\item A Fourier transform takes a function as input in some basis, i.e., time, and outputs a new function which describes the extent to which frequencies are present in data.
+			\item Discrete Fourier transforms exist alongside algorithms for performing them on computers, known as fast Fourier transforms (FFTs). This algorithm is defined by,
+			\begin{equation}
+				X_k = \sum_{m=0}^{n-1}x_me^{-\frac{i2\pi k m}{n}},\hspace{1em}k =0,\ldots,n-1
+			\end{equation}
+			\item Feeding de-dispersed pulsar data into a real-FFT (RFFT), we can identify pulsar signals and their harmonics to determine the period.
+			\begin{itemize}
+				\item If a signal has $N$ harmonics corresponding to an initial $f_i$ and final $f_f$ frequency, the frequency of the pulsar is,
+				\begin{equation}
+					f = \frac{f_f - f_i}{N}.
+				\end{equation} 
+			\end{itemize}
+		\end{itemize}
+	\end{frame}
+	\begin{frame}{Pulsar Timing}
+		\begin{figure}[h]
+			\centering
+			\includegraphics[width=0.8\textwidth]{pulsartiming.png}
+		\end{figure}
+		\begin{itemize}
+			\item If our pulsar's model period $P$ is a perfect, each pulse measured at a time $t$ will correspond to a number $N$ of periods,
+			\begin{equation}
+				\frac{P}{t} = N.
+			\end{equation}
+		\end{itemize}
 	\end{frame}
 \end{document}

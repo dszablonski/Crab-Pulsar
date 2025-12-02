@@ -95,9 +95,6 @@
 			\includegraphics[width=0.8\textwidth]{pulsartiming.png}
 			\caption{\url{https://www.slideshare.net/slideshow/msp-masses/50521845}}
 		\end{figure}
-		\begin{itemize}
-			\item If our pulsar's model period $P$ is a perfect, each pulse measured at a time $t$ will correspond to a number $N$ of periods.
-		\end{itemize}
 	\end{frame}
 	\begin{frame}{Pulsar Timing}
 		\begin{itemize}
@@ -108,6 +105,15 @@
 			\item $r$ is the remainder corresponding to residual.
 			\item Plotting $r$ vs. $t$ yields lines of gradient $\nu$ which is the true frequency of the pulsar.
 		\end{itemize}
+	\end{frame}
+	\begin{frame}{Pulsar Timing - Delays}
+		We wish to move into a more sensible frame of reference by applying delays.
+		\begin{itemize}
+			\item Assume pulsar is far away and at a constant position.
+		\end{itemize}
+		\begin{align}
+			\Delta \tau_{\text{Roemer}} = && \Delta\tau_{\text{Earth}} = 
+		\end{align}
 	\end{frame}
 	\begin{frame}{Pulsar Timing}
 		\begin{itemize}
@@ -170,5 +176,40 @@
 			4 & & \\
 			5 && 
 		\end{tabular}
+	\end{frame}
+	\subsection{Crab Pulsar Timing}
+	\begin{frame}{Crab Pulsar Timing}
+		\centering
+		\begin{figure}
+		\begin{tabular}{p{44mm} p{44mm}}
+			\includegraphics[width=44mm,trim={0cm 0.25cm 0cm 1.4cm},clip]{FINAL_Residuals_vs_TOA_20251021_071206_B0531+21.npz.pdf} & \includegraphics[width=44mm,trim={0 0.25cm 0 1.4cm},clip]{FINAL_Residuals_vs_TOA_20251111_054931_B0531+21.npz.pdf}  \\
+			\scriptsize{(a) dd/mm/yyyy,\newline$P~=~(33.8472471~\pm~0.0000002)$~ms} & \scriptsize{(b) dd/mm/yyyy,\newline $P~=~(33.8480021~\pm~0.0000001)$~ms }\\
+			\multicolumn{2}{c}{\includegraphics[width=44mm,trim={0 0.25cm 0 1.4cm}, clip]{FINAL_Residuals_vs_TOA_20251119_184501_B0531+21.npz.pdf}} \\
+			\multicolumn{2}{c}{\scriptsize{(c) dd/mm/yyyy, $P~=~(33.8483683~\pm~0.0000006)$~ms}}
+		\end{tabular}
+	\end{figure}
+	\end{frame}
+	\begin{frame}{Crab Pulsar Timing - Period Derivative}
+		\begin{figure}
+			\centering
+			\includegraphics[width=0.8\textwidth]{period_derivative-1.pdf}
+			\caption{Measured $\Dot{P} = (4.197 \pm 0.109)\times10^{-13}$}
+		\end{figure}
+	\end{frame}
+	\begin{frame}{Crab Pulsar Timing}
+		Corresponding surface magnetic field and age:
+		\begin{align}
+			B = && t = 
+		\end{align}
+	\end{frame}
+	\section{Discussion}
+	\begin{frame}{Errors}
+		\begin{itemize}
+			\item All values found to within 1$\sigma$ of accepeted value.
+			\item Errors could be improved in interpolation and other areas.
+		\end{itemize}
+	\end{frame}
+	\begin{frame}
+		Thank you for listening!
 	\end{frame}
 \end{document}

@@ -1,6 +1,6 @@
 % !BIB TS-program = biber
 \documentclass{beamer}
-\usetheme{CambridgeUS}
+\usetheme{gotham}
 \setbeamertemplate{caption}[numbered]
 \usepackage{amsmath}
 \usepackage{subcaption}
@@ -25,7 +25,7 @@
 	\begin{frame}{What is a Pulsar?}
 		\begin{figure}
 			\centering
-		\animategraphics[loop,width=0.9\textwidth]{10}{pulsar_}{1}{48}
+		\animategraphics[loop,width=0.9\textwidth,autoplay]{25}{pulsar_}{1}{48}
 		\caption{\url{https://lilith.fisica.ufmg.br/\~dsoares/extn/ogs/ogs-psr.htm}}
 		\end{figure}
 	\end{frame}
@@ -51,6 +51,11 @@
 			\begin{equation}
 				DM = 
 			\end{equation}
+			in units of $\text{cm}^{-3}\text{ pc}$.
+			\item Distance to the pulsar may then be estimated by,
+			\begin{equation}
+				d = DM \cdot n_e
+			\end{equation}
 		\end{itemize}
 	\end{frame}
 	\begin{frame}{Dispersion Measures}
@@ -73,25 +78,97 @@
 			\begin{equation}
 				X_k = \sum_{m=0}^{n-1}x_me^{-\frac{i2\pi k m}{n}},\hspace{1em}k =0,\ldots,n-1
 			\end{equation}
-			\item Feeding de-dispersed pulsar data into a real-FFT (RFFT), we can identify pulsar signals and their harmonics to determine the period.
-			\begin{itemize}
-				\item If a signal has $N$ harmonics corresponding to an initial $f_i$ and final $f_f$ frequency, the frequency of the pulsar is,
-				\begin{equation}
-					f = \frac{f_f - f_i}{N}.
-				\end{equation} 
 			\end{itemize}
+	\end{frame}
+	\begin{frame}{Searching for Pulsars via Fourier Analysis}
+		\begin{itemize}
+		\item Feeding de-dispersed pulsar data into a real-FFT (RFFT), we can identify pulsar signals and their harmonics to determine the period.
+			\item If a signal has $N$ harmonics corresponding to an initial $f_i$ and final $f_f$ frequency, the frequency of the pulsar is,
+			\begin{equation}
+				f = \frac{f_f - f_i}{N}.
+			\end{equation} 
 		\end{itemize}
 	\end{frame}
 	\begin{frame}{Pulsar Timing}
 		\begin{figure}[h]
 			\centering
 			\includegraphics[width=0.8\textwidth]{pulsartiming.png}
+			\caption{\url{https://www.slideshare.net/slideshow/msp-masses/50521845}}
 		\end{figure}
 		\begin{itemize}
-			\item If our pulsar's model period $P$ is a perfect, each pulse measured at a time $t$ will correspond to a number $N$ of periods,
+			\item If our pulsar's model period $P$ is a perfect, each pulse measured at a time $t$ will correspond to a number $N$ of periods.
+		\end{itemize}
+	\end{frame}
+	\begin{frame}{Pulsar Timing}
+		\begin{itemize}
+			\item If it is incorrect, the pulses will spread apart over time, before coming together again.
 			\begin{equation}
-				\frac{P}{t} = N.
+				\frac{P}{t} = N + r
+			\end{equation}
+			\item $r$ is the remainder corresponding to residual.
+			\item Plotting $r$ vs. $t$ yields lines of gradient $\nu$ which is the true frequency of the pulsar.
+		\end{itemize}
+	\end{frame}
+	\begin{frame}{Pulsar Timing}
+		\begin{itemize}
+			\item We can measure how the pulsar period changes over time via the period derivative $\Dot{P}$.
+			\item We estimate the surface magnetic field by,
+			\begin{equation}
+				B = 
+			\end{equation}
+			\item Age is estimated by,
+			\begin{equation}
+				t = 
 			\end{equation}
 		\end{itemize}
+	\end{frame}
+	\section{Results}
+	\begin{frame}{DM Values}
+		\centering
+		\begin{tabular}{c| p{2cm} | c | c}
+			Name & Obs. Date+Time & DM / cm$^{-3}$ pc & $d$ / pc \\
+			\hline 
+			B0329+54 & 07/10/2025 @ 10:08 & 25.174\pm2.173 & \\
+			B0950+08 & 07/10/2025 @ 11:04 & 7.389\pm2.361 & \\
+			B1933+16 & 07/10/2025 @ 12:12 & 155.844\pm11.425 & \\
+			B2021+51 & 07/10/2025 @ 13:46 & 15.846\pm7.668 & 
+		\end{tabular}
+	\end{frame}
+	\begin{frame}{DM Values - Crab Pulsar}
+		\centering
+		\begin{tabular}{c | p{2cm} | c | c}
+			Name & Obs. Date+Time & DM / cm$^{-3}$ pc & $d$ / pc \\
+			\hline
+			B0531+21 & 21/10/2025 @ 07:12 & 55.675\pm5.249 & \\
+			& 21/10/2025 @ 08:33 & 55.401\pm15.757 & \\
+			& 11/11/2025 @ 05:49 & 55.355\pm7.196 & \\
+			& 19/11/2025 @ 18:45 & 55.192\pm4.468 & 
+		\end{tabular}
+	\end{frame}
+	\begin{frame}{Fourier Analysis of Pulsar Data}
+		\centering
+		\begin{tabular}{cc}
+			\small
+			\includegraphics[width=45mm]{power_spectrum_psr1.dat.pdf} &   \includegraphics[width=45mm]{power_spectrum_psr2.dat.pdf} \\
+			(a) first & (b) second \\[6pt]
+			\includegraphics[width=45mm]{power_spectrum_psr3.dat.pdf} &   \includegraphics[width=45mm]{power_spectrum_psr4.dat.pdf} \\
+			(c) third & (d) fourth \\[6pt]
+			\multicolumn{2}{c}{\includegraphics[width=45mm]{power_spectrum_psr5.dat.pdf} }\\
+			\multicolumn{2}{c}{(e) fifth}
+		\end{tabular}
+	\end{frame}
+	\begin{frame}{Fourier Analysis of Pulsar Data}
+		\centering
+		\begin{tabular}{c c c}
+			Observation & $\nu$/Hz & Possible Pulsars\\
+			\hline
+			1 & & \begin{tabular}{c c}
+				B$\cdots$ & 1$\sigma$, $x\%$ 
+			\end{tabular} \\
+			2 & & \\
+			3 & & \\
+			4 & & \\
+			5 && 
+		\end{tabular}
 	\end{frame}
 \end{document}

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.9.21)  2 DEC 2025 13:36
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.9.21)  2 DEC 2025 15:02
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -727,10 +727,255 @@ Package: amsthm 2020/05/29 v2.20.6
 \beamer@dimb=\dimen293
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeCambridgeUS.sty
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty))
+(/home/dominik/texmf/tex/latex/gotham/beamerthemegotham.sty
+Package: beamerthemegotham 2025-11-04 v1.2.3.c A modern, minimal-ish, versatile
+ and extendable yet robust theme for Beamer
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count343
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box77
+))
+(/home/dominik/texmf/tex/latex/gotham/beamerfontthemegotham.sty
+Package: beamerfontthemegotham 2025-11-04 v1.2.3.c gotham font theme
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+\g_gotham_fontsnotfound_int=\count344
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count345
+\l__fontspec_language_int=\count346
+\l__fontspec_strnum_int=\count347
+\l__fontspec_tmp_int=\count348
+\l__fontspec_tmpa_int=\count349
+\l__fontspec_tmpb_int=\count350
+\l__fontspec_tmpc_int=\count351
+\l__fontspec_em_int=\count352
+\l__fontspec_emdef_int=\count353
+\l__fontspec_strong_int=\count354
+\l__fontspec_strongdef_int=\count355
+\l__fontspec_tmpa_dim=\dimen294
+\l__fontspec_tmpb_dim=\dimen295
+\l__fontspec_tmpc_dim=\dimen296
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: 
+(fontspec)             Font family 'FiraSans-Light.otf(0)' created for font
+(fontspec)             'FiraSans-Light.otf' with options
+(fontspec)             [Ligatures=TeX,ItalicFont={FiraSans-LightItalic.otf},Bol
+dFont={FiraSans-Regular.otf},BoldItalicFont={FiraSans-Italic.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Light.otf]:mode=node;script=latn;language=
+dflt;+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Light.otf]:mode=node;script=latn;language=
+dflt;+tlig;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Regular.otf]:mode=node;script=latn;languag
+e=dflt;+tlig;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Regular.otf]:mode=node;script=latn;languag
+e=dflt;+tlig;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FiraSans-LightItalic.otf]:mode=node;script=latn;lan
+guage=dflt;+tlig;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[FiraSans-LightItalic.otf]:mode=node;script=latn;lan
+guage=dflt;+tlig;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Italic.otf]:mode=node;script=latn;language
+=dflt;+tlig;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Italic.otf]:mode=node;script=latn;language
+=dflt;+tlig;+smcp;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'FiraMono-Bold.otf(0)' created for font
+(fontspec)             'FiraMono-Bold.otf' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space,BoldFont={FiraMono-Medium.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FiraMono-Bold.otf]:mode=node;script=latn;language=d
+flt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FiraMono-Medium.otf]:mode=node;script=latn;language
+=dflt;"
+
+)
+(/home/dominik/texmf/tex/latex/gotham/beamercolorthemegotham.sty
+Package: beamercolorthemegotham 2025-11-04 v1.2.3.c Gotham color theme
+)
+(/home/dominik/texmf/tex/latex/gotham/beamerinnerthemegotham.sty
+Package: beamerinnerthemegotham 2025-11-04 v1.2.3.c gotham inner theme
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count356
+\calc@Bcount=\count357
+\calc@Adimen=\dimen297
+\calc@Bdimen=\dimen298
+\calc@Askip=\skip66
+\calc@Bskip=\skip67
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count358
+\calc@Cskip=\skip68
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box78
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen299
+\pgf@nodesepend=\dimen300
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen301
+\pgffor@skip=\dimen302
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count359
+\pgfplotmarksize=\dimen303
+)
+\tikz@lastx=\dimen304
+\tikz@lasty=\dimen305
+\tikz@lastxsaved=\dimen306
+\tikz@lastysaved=\dimen307
+\tikz@lastmovetox=\dimen308
+\tikz@lastmovetoy=\dimen309
+\tikzleveldistance=\dimen310
+\tikzsiblingdistance=\dimen311
+\tikz@figbox=\box79
+\tikz@figbox@bg=\box80
+\tikz@tempbox=\box81
+\tikz@tempbox@bg=\box82
+\tikztreelevel=\count360
+\tikznumberofchildren=\count361
+\tikznumberofcurrentchild=\count362
+\tikz@fig@count=\count363
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count364
+\pgfmatrixcurrentcolumn=\count365
+\pgf@matrix@numberofcolumns=\count366
+)
+\tikz@expandcount=\count367
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+\l__gotham_titleseparator_width_dim=\dimen312
+\l__gotham_titleseparator_height_dim=\dimen313
+\l__gotham_title_width_dim=\dimen314
+\l__gotham_subtitle_width_dim=\dimen315
+\l__gotham_title_max_width_dim=\dimen316
+\gotham@progressonsectionpage=\skip69
+\gothamProgressSectionHeight=\skip70
+\sectionhoffset=\skip71
+\gotham@blocksep=\skip72
+\gotham@blockadjust=\skip73
+\gotham@parskip=\skip74
+)
+(/home/dominik/texmf/tex/latex/gotham/beamerouterthemegotham.sty
+Package: beamerouterthemegotham 2025-11-04 v1.2.3.c gotham outer theme
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
+Package: xfp 2024-08-16 L3 Floating point unit
+)
+\sidebarRightHOffset=\skip75
+\sidebarLeftHOffset=\skip76
+\gothamFrametitleToppading=\skip77
+\gothamFrametitleBottompading=\skip78
+\gothamFrametitleLeftpading=\skip79
+\gothamFrametitleRightpading=\skip80
+\gothamFramesubtitleStrutend=\skip81
+\l__gotham_framesubtitle_subnewline_strutend_dim=\dimen317
+\gothamFootlineVOffset=\skip82
+\gothamFootlineHeight=\skip83
+\gothamFootlineDepth=\skip84
+\gothamFootlineHRightOffset=\skip85
+\gothamLeftFooterPadding=\skip86
+\gothamRightFooterPadding=\skip87
+\gothamFooterHOffset=\skip88
+\gothamFootlineRuleLeftPadding=\skip89
+\gothamFootlineRuleHeight=\skip90
+\gothamFootlineRuleLength=\skip91
+\gothamHposLeftRotFooter=\skip92
+\gothamHposRightRotFooter=\skip93
+\gothamVposLeftRotFooter=\skip94
+\gothamVposRightRotFooter=\skip95
+\hlenRightRotFooter=\skip96
+\hlenLeftRotFooter=\skip97
+\gothamCircleNumberingVshift=\skip98
+\gothamCircleNumberingHshift=\skip99
+\gotham@temp@heightFrametitle=\skip100
+\gotham@temp@PaperheightFrametitle=\skip101
+\gotham@temp@MiniframeSubsecDim=\skip102
+\gotham@temp@MiniframeSecDim=\skip103
+\gotham@progressinheadfoot=\skip104
+\gothamProgressHeadFootLineheight=\skip105
+\gothamProgressCircHeight=\skip106
+\gothamCounterCircleRadius=\skip107
+\gothamProgressCircBorderWidth=\skip108
+\gothamProgressCircLogoRadius=\skip109
+\gothamProgressCircLogoInnerRadius=\skip110
+\gothamProgressCircLogoOuterRadius=\skip111
+\gothamCounterRadius=\skip112
+)
+\l_gotham_lookup_cnt=\count368
+)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 
@@ -739,52 +984,40 @@ Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen294
-\captionmargin=\dimen295
-\caption@leftmargin=\dimen296
-\caption@rightmargin=\dimen297
-\caption@width=\dimen298
-\caption@indent=\dimen299
-\caption@parindent=\dimen300
-\caption@hangindent=\dimen301
+\caption@tempdima=\dimen318
+\captionmargin=\dimen319
+\caption@leftmargin=\dimen320
+\caption@rightmargin=\dimen321
+\caption@width=\dimen322
+\caption@indent=\dimen323
+\caption@parindent=\dimen324
+\caption@hangindent=\dimen325
 Package caption Info: beamer document class detected.
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
 e beamer document classes (AR)
 ))
-\c@caption@flags=\count343
-\c@continuedfloat=\count344
+\c@caption@flags=\count369
+\c@continuedfloat=\count370
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count345
+\c@subfigure=\count371
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count346
+\c@subtable=\count372
 )
 (/usr/share/texlive/texmf-dist/tex/latex/physics/physics.sty
 Package: physics 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-01-18 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count347
-Inserting `l3color' in `luaotfload.parse_color'.
-\l__pdf_internal_box=\box77
-))
-Package: xparse 2024-08-16 L3 Experimental document command parser
-))
+)
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count348
+\lrq@indent=\count373
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -792,63 +1025,63 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count349
-\c@listtotal=\count350
-\c@listcount=\count351
-\c@liststart=\count352
-\c@liststop=\count353
-\c@citecount=\count354
-\c@citetotal=\count355
-\c@multicitecount=\count356
-\c@multicitetotal=\count357
-\c@instcount=\count358
-\c@maxnames=\count359
-\c@minnames=\count360
-\c@maxitems=\count361
-\c@minitems=\count362
-\c@citecounter=\count363
-\c@maxcitecounter=\count364
-\c@savedcitecounter=\count365
-\c@uniquelist=\count366
-\c@uniquename=\count367
-\c@refsection=\count368
-\c@refsegment=\count369
-\c@maxextratitle=\count370
-\c@maxextratitleyear=\count371
-\c@maxextraname=\count372
-\c@maxextradate=\count373
-\c@maxextraalpha=\count374
-\c@abbrvpenalty=\count375
-\c@highnamepenalty=\count376
-\c@lownamepenalty=\count377
-\c@maxparens=\count378
-\c@parenlevel=\count379
-\blx@tempcnta=\count380
-\blx@tempcntb=\count381
-\blx@tempcntc=\count382
-\c@blx@maxsection=\count383
-\blx@maxsegment@0=\count384
-\blx@notetype=\count385
-\blx@parenlevel@text=\count386
-\blx@parenlevel@foot=\count387
-\blx@sectionciteorder@0=\count388
-\blx@sectionciteorderinternal@0=\count389
-\blx@entrysetcounter=\count390
-\blx@biblioinstance=\count391
-\labelnumberwidth=\skip66
-\labelalphawidth=\skip67
-\biblabelsep=\skip68
-\bibitemsep=\skip69
-\bibnamesep=\skip70
-\bibinitsep=\skip71
-\bibparsep=\skip72
-\bibhang=\skip73
+\c@tabx@nest=\count374
+\c@listtotal=\count375
+\c@listcount=\count376
+\c@liststart=\count377
+\c@liststop=\count378
+\c@citecount=\count379
+\c@citetotal=\count380
+\c@multicitecount=\count381
+\c@multicitetotal=\count382
+\c@instcount=\count383
+\c@maxnames=\count384
+\c@minnames=\count385
+\c@maxitems=\count386
+\c@minitems=\count387
+\c@citecounter=\count388
+\c@maxcitecounter=\count389
+\c@savedcitecounter=\count390
+\c@uniquelist=\count391
+\c@uniquename=\count392
+\c@refsection=\count393
+\c@refsegment=\count394
+\c@maxextratitle=\count395
+\c@maxextratitleyear=\count396
+\c@maxextraname=\count397
+\c@maxextradate=\count398
+\c@maxextraalpha=\count399
+\c@abbrvpenalty=\count400
+\c@highnamepenalty=\count401
+\c@lownamepenalty=\count402
+\c@maxparens=\count403
+\c@parenlevel=\count404
+\blx@tempcnta=\count405
+\blx@tempcntb=\count406
+\blx@tempcntc=\count407
+\c@blx@maxsection=\count408
+\blx@maxsegment@0=\count409
+\blx@notetype=\count410
+\blx@parenlevel@text=\count411
+\blx@parenlevel@foot=\count412
+\blx@sectionciteorder@0=\count413
+\blx@sectionciteorderinternal@0=\count414
+\blx@entrysetcounter=\count415
+\blx@biblioinstance=\count416
+\labelnumberwidth=\skip113
+\labelalphawidth=\skip114
+\biblabelsep=\skip115
+\bibitemsep=\skip116
+\bibnamesep=\skip117
+\bibinitsep=\skip118
+\bibparsep=\skip119
+\bibhang=\skip120
 \blx@bcfin=\read3
 \blx@bcfout=\write5
 \blx@langwohyphens=\language2
-\c@mincomprange=\count392
-\c@maxcomprange=\count393
-\c@mincompwidth=\count394
+\c@mincomprange=\count417
+\c@maxcomprange=\count418
+\c@mincompwidth=\count419
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -859,88 +1092,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'nature.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count395
-\c@savedafterword=\count396
-\c@annotator=\count397
-\c@savedannotator=\count398
-\c@author=\count399
-\c@savedauthor=\count400
-\c@bookauthor=\count401
-\c@savedbookauthor=\count402
-\c@commentator=\count403
-\c@savedcommentator=\count404
-\c@editor=\count405
-\c@savededitor=\count406
-\c@editora=\count407
-\c@savededitora=\count408
-\c@editorb=\count409
-\c@savededitorb=\count410
-\c@editorc=\count411
-\c@savededitorc=\count412
-\c@foreword=\count413
-\c@savedforeword=\count414
-\c@holder=\count415
-\c@savedholder=\count416
-\c@introduction=\count417
-\c@savedintroduction=\count418
-\c@namea=\count419
-\c@savednamea=\count420
-\c@nameb=\count421
-\c@savednameb=\count422
-\c@namec=\count423
-\c@savednamec=\count424
-\c@translator=\count425
-\c@savedtranslator=\count426
-\c@shortauthor=\count427
-\c@savedshortauthor=\count428
-\c@shorteditor=\count429
-\c@savedshorteditor=\count430
-\c@labelname=\count431
-\c@savedlabelname=\count432
-\c@institution=\count433
-\c@savedinstitution=\count434
-\c@lista=\count435
-\c@savedlista=\count436
-\c@listb=\count437
-\c@savedlistb=\count438
-\c@listc=\count439
-\c@savedlistc=\count440
-\c@listd=\count441
-\c@savedlistd=\count442
-\c@liste=\count443
-\c@savedliste=\count444
-\c@listf=\count445
-\c@savedlistf=\count446
-\c@location=\count447
-\c@savedlocation=\count448
-\c@organization=\count449
-\c@savedorganization=\count450
-\c@origlocation=\count451
-\c@savedoriglocation=\count452
-\c@origpublisher=\count453
-\c@savedorigpublisher=\count454
-\c@publisher=\count455
-\c@savedpublisher=\count456
-\c@language=\count457
-\c@savedlanguage=\count458
-\c@origlanguage=\count459
-\c@savedoriglanguage=\count460
-\c@pageref=\count461
-\c@savedpageref=\count462
-\shorthandwidth=\skip74
-\shortjournalwidth=\skip75
-\shortserieswidth=\skip76
-\shorttitlewidth=\skip77
-\shortauthorwidth=\skip78
-\shorteditorwidth=\skip79
-\locallabelnumberwidth=\skip80
-\locallabelalphawidth=\skip81
-\localshorthandwidth=\skip82
-\localshortjournalwidth=\skip83
-\localshortserieswidth=\skip84
-\localshorttitlewidth=\skip85
-\localshortauthorwidth=\skip86
-\localshorteditorwidth=\skip87
+\c@afterword=\count420
+\c@savedafterword=\count421
+\c@annotator=\count422
+\c@savedannotator=\count423
+\c@author=\count424
+\c@savedauthor=\count425
+\c@bookauthor=\count426
+\c@savedbookauthor=\count427
+\c@commentator=\count428
+\c@savedcommentator=\count429
+\c@editor=\count430
+\c@savededitor=\count431
+\c@editora=\count432
+\c@savededitora=\count433
+\c@editorb=\count434
+\c@savededitorb=\count435
+\c@editorc=\count436
+\c@savededitorc=\count437
+\c@foreword=\count438
+\c@savedforeword=\count439
+\c@holder=\count440
+\c@savedholder=\count441
+\c@introduction=\count442
+\c@savedintroduction=\count443
+\c@namea=\count444
+\c@savednamea=\count445
+\c@nameb=\count446
+\c@savednameb=\count447
+\c@namec=\count448
+\c@savednamec=\count449
+\c@translator=\count450
+\c@savedtranslator=\count451
+\c@shortauthor=\count452
+\c@savedshortauthor=\count453
+\c@shorteditor=\count454
+\c@savedshorteditor=\count455
+\c@labelname=\count456
+\c@savedlabelname=\count457
+\c@institution=\count458
+\c@savedinstitution=\count459
+\c@lista=\count460
+\c@savedlista=\count461
+\c@listb=\count462
+\c@savedlistb=\count463
+\c@listc=\count464
+\c@savedlistc=\count465
+\c@listd=\count466
+\c@savedlistd=\count467
+\c@liste=\count468
+\c@savedliste=\count469
+\c@listf=\count470
+\c@savedlistf=\count471
+\c@location=\count472
+\c@savedlocation=\count473
+\c@organization=\count474
+\c@savedorganization=\count475
+\c@origlocation=\count476
+\c@savedoriglocation=\count477
+\c@origpublisher=\count478
+\c@savedorigpublisher=\count479
+\c@publisher=\count480
+\c@savedpublisher=\count481
+\c@language=\count482
+\c@savedlanguage=\count483
+\c@origlanguage=\count484
+\c@savedoriglanguage=\count485
+\c@pageref=\count486
+\c@savedpageref=\count487
+\shorthandwidth=\skip121
+\shortjournalwidth=\skip122
+\shortserieswidth=\skip123
+\shorttitlewidth=\skip124
+\shortauthorwidth=\skip125
+\shorteditorwidth=\skip126
+\locallabelnumberwidth=\skip127
+\locallabelalphawidth=\skip128
+\localshorthandwidth=\skip129
+\localshortjournalwidth=\skip130
+\localshortserieswidth=\skip131
+\localshorttitlewidth=\skip132
+\localshortauthorwidth=\skip133
+\localshorteditorwidth=\skip134
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
@@ -956,19 +1189,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-\c@textcitecount=\count463
-\c@textcitetotal=\count464
-\c@textcitemaxnames=\count465
-\c@biburlbigbreakpenalty=\count466
-\c@biburlbreakpenalty=\count467
-\c@biburlnumpenalty=\count468
-\c@biburlucpenalty=\count469
-\c@biburllcpenalty=\count470
+\c@textcitecount=\count488
+\c@textcitetotal=\count489
+\c@textcitemaxnames=\count490
+\c@biburlbigbreakpenalty=\count491
+\c@biburlbreakpenalty=\count492
+\c@biburlnumpenalty=\count493
+\c@biburlucpenalty=\count494
+\c@biburllcpenalty=\count495
 \biburlbigskip=\muskip19
 \biburlnumskip=\muskip20
 \biburlucskip=\muskip21
 \biburllcskip=\muskip22
-\c@smartand=\count471
+\c@smartand=\count496
 )
 Package biblatex Info: Trying to load bibliography style 'nature'...
 Package biblatex Info: ... file 'nature.bbx' found.
@@ -990,8 +1223,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count472
-\c@bbx:relatedtotal=\count473
+\c@bbx:relatedcount=\count497
+\c@bbx:relatedtotal=\count498
 ))))
 Package biblatex Info: Trying to load citation style 'nature'...
 Package biblatex Info: ... file 'nature.cbx' found.
@@ -1003,10 +1236,10 @@ Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count474
-\c@cbx@tempcntb=\count475
-\c@cbx@tempcntc=\count476
-\c@cbx@tempcntd=\count477
+\c@cbx@tempcnta=\count499
+\c@cbx@tempcntb=\count500
+\c@cbx@tempcntc=\count501
+\c@cbx@tempcntd=\count502
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1038,48 +1271,48 @@ Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2025-02-27 v3.4.6 A comprehensive (SI) units package
-\l__siunitx_number_uncert_offset_int=\count478
-\l__siunitx_number_exponent_fixed_int=\count479
-\l__siunitx_number_min_decimal_int=\count480
-\l__siunitx_number_min_integer_int=\count481
-\l__siunitx_number_round_precision_int=\count482
-\l__siunitx_number_lower_threshold_int=\count483
-\l__siunitx_number_upper_threshold_int=\count484
-\l__siunitx_number_group_first_int=\count485
-\l__siunitx_number_group_size_int=\count486
-\l__siunitx_number_group_minimum_int=\count487
-\l__siunitx_angle_tmp_dim=\dimen302
-\l__siunitx_angle_marker_box=\box78
-\l__siunitx_angle_unit_box=\box79
-\l__siunitx_compound_count_int=\count488
+\l__siunitx_number_uncert_offset_int=\count503
+\l__siunitx_number_exponent_fixed_int=\count504
+\l__siunitx_number_min_decimal_int=\count505
+\l__siunitx_number_min_integer_int=\count506
+\l__siunitx_number_round_precision_int=\count507
+\l__siunitx_number_lower_threshold_int=\count508
+\l__siunitx_number_upper_threshold_int=\count509
+\l__siunitx_number_group_first_int=\count510
+\l__siunitx_number_group_size_int=\count511
+\l__siunitx_number_group_minimum_int=\count512
+\l__siunitx_angle_tmp_dim=\dimen326
+\l__siunitx_angle_marker_box=\box83
+\l__siunitx_angle_unit_box=\box84
+\l__siunitx_compound_count_int=\count513
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
  (CN)
 )
-\l__siunitx_table_tmp_box=\box80
-\l__siunitx_table_tmp_dim=\dimen303
-\l__siunitx_table_column_width_dim=\dimen304
-\l__siunitx_table_integer_box=\box81
-\l__siunitx_table_decimal_box=\box82
-\l__siunitx_table_uncert_box=\box83
-\l__siunitx_table_before_box=\box84
-\l__siunitx_table_after_box=\box85
-\l__siunitx_table_before_dim=\dimen305
-\l__siunitx_table_carry_dim=\dimen306
-\l__siunitx_unit_tmp_int=\count489
-\l__siunitx_unit_position_int=\count490
-\l__siunitx_unit_total_int=\count491
+\l__siunitx_table_tmp_box=\box85
+\l__siunitx_table_tmp_dim=\dimen327
+\l__siunitx_table_column_width_dim=\dimen328
+\l__siunitx_table_integer_box=\box86
+\l__siunitx_table_decimal_box=\box87
+\l__siunitx_table_uncert_box=\box88
+\l__siunitx_table_before_box=\box89
+\l__siunitx_table_after_box=\box90
+\l__siunitx_table_before_dim=\dimen329
+\l__siunitx_table_carry_dim=\dimen330
+\l__siunitx_unit_tmp_int=\count514
+\l__siunitx_unit_position_int=\count515
+\l__siunitx_unit_total_int=\count516
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
-\col@sep=\dimen307
-\ar@mcellbox=\box86
-\extrarowheight=\dimen308
-\NC@list=\toks47
-\extratabsurround=\skip88
-\backup@length=\skip89
-\ar@cellbox=\box87
+\col@sep=\dimen331
+\ar@mcellbox=\box91
+\extrarowheight=\dimen332
+\NC@list=\toks49
+\extratabsurround=\skip135
+\backup@length=\skip136
+\ar@cellbox=\box92
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/animate/animate.sty
 Package: animate 2024/10/14 PDF & SVG animations from files and inline graphics
@@ -1088,24 +1321,11 @@ Package: animate 2024/10/14 PDF & SVG animations from files and inline graphics
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
 Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count492
-\calc@Bcount=\count493
-\calc@Adimen=\dimen309
-\calc@Bdimen=\dimen310
-\calc@Askip=\skip90
-\calc@Bskip=\skip91
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count494
-\calc@Cskip=\skip92
-)
 (/usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty
 Package: pdfbase 2024/09/16 v0.59 driver independent access to low-level PDF fe
 atures
-\g_pbs_page_int=\count495
-\g_pbs_oc_int=\count496
+\g_pbs_page_int=\count517
+\g_pbs_oc_int=\count518
 )
 (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
@@ -1123,32 +1343,32 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count497
+\c@abspage=\count519
 Package zref Info: New property: abspage on input line 67.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
 Package: ocgbase 2024/09/15 v0.24 support package for ocgx2.sty
 )
-\@anim@box=\box88
-\@anim@measbox=\box89
-\@anim@tmpdima=\dimen311
-\@anim@tmpdimb=\dimen312
-\@anim@num=\count498
-\@anim@curframe=\count499
-\@anim@curframe@zb=\count500
-\@anim@resizeflags=\count501
-\@anim@skipfram=\count502
-\@anim@mulframecnt=\count503
+\@anim@box=\box93
+\@anim@measbox=\box94
+\@anim@tmpdima=\dimen333
+\@anim@tmpdimb=\dimen334
+\@anim@num=\count520
+\@anim@curframe=\count521
+\@anim@curframe@zb=\count522
+\@anim@resizeflags=\count523
+\@anim@skipfram=\count524
+\@anim@mulframecnt=\count525
 \@anim@@tmlnfile=\read4
-\@anim@tmpcnt=\count504
-\c@@anim@ltxcnt=\count505
-\@anim@curlayer=\count506
-\@anim@lineno=\count507
-\@anim@curfield=\count508
-\@anim@@resizeflags=\count509
+\@anim@tmpcnt=\count526
+\c@@anim@ltxcnt=\count527
+\@anim@curlayer=\count528
+\@anim@lineno=\count529
+\@anim@curfield=\count530
+\@anim@@resizeflags=\count531
 )
-\@quotelevel=\count510
-\@quotereset=\count511
+\@quotelevel=\count532
+\@quotereset=\count533
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 20.
  (./main.aux)
@@ -1183,14 +1403,14 @@ LaTeX Font Info:    ... okay on input line 20.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(10.95pt, 342.29536pt, 10.95pt)
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=342.29536pt
+* \textwidth=307.28987pt
 * \textheight=244.6939pt
-* \oddsidemargin=-61.31999pt
-* \evensidemargin=-61.31999pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -1211,17 +1431,17 @@ LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count512
-\scratchdimen=\dimen313
-\scratchbox=\box90
-\nofMPsegments=\count513
-\nofMParguments=\count514
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count515
-\MPscratchDim=\dimen314
-\MPnumerator=\count516
-\makeMPintoPDFobject=\count517
-\everyMPtoPDFconversion=\toks49
+\scratchcounter=\count534
+\scratchdimen=\dimen335
+\scratchbox=\box95
+\nofMPsegments=\count535
+\nofMParguments=\count536
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count537
+\MPscratchDim=\dimen336
+\MPnumerator=\count538
+\makeMPintoPDFobject=\count539
+\everyMPtoPDFconversion=\toks51
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1247,38 +1467,52 @@ LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/lmr/m/n on input line 20.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 20.
+(Font)                  OT1/cmr/bx/n --> TU/FiraSans-Light.otf(0)/b/n on input 
+line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 20.
+(Font)                  OT1/cmr/bx/n --> TU/FiraSans-Light.otf(0)/b/n on input 
+line 20.
 LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 20.
+(Font)                  OT1/cmss/m/n --> TU/FiraSans-Light.otf(0)/m/n on input 
+line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/m/n on input line 20.
+(Font)                  OT1/cmss/bx/n --> TU/FiraSans-Light.otf(0)/m/n on input
+ line 20.
 LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmss/m/it on input line 20.
+(Font)                  OT1/cmr/m/it --> TU/FiraSans-Light.otf(0)/m/it on input
+ line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmss/m/it on input line 20.
+(Font)                  OT1/cmr/bx/it --> TU/FiraSans-Light.otf(0)/m/it on inpu
+t line 20.
 LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 20.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono-Bold.otf(0)/m/n on input l
+ine 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 20.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono-Bold.otf(0)/m/n on input l
+ine 20.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 20.
+(Font)                  TU/FiraSans-Light.otf(0)/m/n --> TU/FiraSans-Light.otf(
+0)/b/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 20.
+(Font)                  TU/FiraSans-Light.otf(0)/m/it --> TU/FiraSans-Light.otf
+(0)/b/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  OT1/cmss/b/n --> TU/lmr/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  TU/lmss/b/n --> TU/lmss/b/n on input line 20.
+(Font)                  TU/FiraSans-Light.otf(0)/b/n --> TU/FiraSans-Light.otf(
+0)/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 20.
+(Font)                  TU/FiraSans-Light.otf(0)/m/n --> TU/FiraSans-Light.otf(
+0)/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 20.
+(Font)                  TU/FiraSans-Light.otf(0)/m/it --> TU/FiraSans-Light.otf
+(0)/b/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 20.
+(Font)                  TU/FiraMono-Bold.otf(0)/m/n --> TU/FiraMono-Bold.otf(0)
+/b/n on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1344,336 +1578,319 @@ nslations-basic-dictionary')
 Package translations Info: loading dictionary `translations-basic-dictionary' f
 or `english'. on input line 20.
  (./main.nav)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
 
-[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<pulsar_1.png, id=73, 2999.205pt x 1686.3pt>
-File: pulsar_1.png Graphic file (type png)
-<use pulsar_1.png>
-Package luatex.def Info: pulsar_1.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_1.png>
-<a0,fr0>
-<pulsar_2.png, id=77, 2999.205pt x 1686.3pt>
-File: pulsar_2.png Graphic file (type png)
-<use pulsar_2.png>
-Package luatex.def Info: pulsar_2.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_2.png> <a0,fr1>
-<pulsar_3.png, id=81, 2999.205pt x 1686.3pt>
-File: pulsar_3.png Graphic file (type png)
-<use pulsar_3.png>
-Package luatex.def Info: pulsar_3.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_3.png> <a0,fr2>
-<pulsar_4.png, id=85, 2999.205pt x 1686.3pt>
-File: pulsar_4.png Graphic file (type png)
-<use pulsar_4.png>
-Package luatex.def Info: pulsar_4.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_4.png>
-<a0,fr3>
-<pulsar_5.png, id=89, 2999.205pt x 1686.3pt>
-File: pulsar_5.png Graphic file (type png)
-<use pulsar_5.png>
-Package luatex.def Info: pulsar_5.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_5.png> <a0,fr4>
-<pulsar_6.png, id=93, 2999.205pt x 1686.3pt>
-File: pulsar_6.png Graphic file (type png)
-<use pulsar_6.png>
-Package luatex.def Info: pulsar_6.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_6.png> <a0,fr5>
-<pulsar_7.png, id=97, 2999.205pt x 1686.3pt>
-File: pulsar_7.png Graphic file (type png)
-<use pulsar_7.png>
-Package luatex.def Info: pulsar_7.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_7.png>
-<a0,fr6>
-<pulsar_8.png, id=101, 2999.205pt x 1686.3pt>
-File: pulsar_8.png Graphic file (type png)
-<use pulsar_8.png>
-Package luatex.def Info: pulsar_8.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_8.png> <a0,fr7>
-<pulsar_9.png, id=105, 2999.205pt x 1686.3pt>
-File: pulsar_9.png Graphic file (type png)
-<use pulsar_9.png>
-Package luatex.def Info: pulsar_9.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_9.png> <a0,fr8>
-<pulsar_10.png, id=109, 2999.205pt x 1686.3pt>
-File: pulsar_10.png Graphic file (type png)
-<use pulsar_10.png>
-Package luatex.def Info: pulsar_10.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_10.png>
-<a0,fr9>
-<pulsar_11.png, id=113, 2999.205pt x 1686.3pt>
-File: pulsar_11.png Graphic file (type png)
-<use pulsar_11.png>
-Package luatex.def Info: pulsar_11.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_11.png> <a0,fr10>
-<pulsar_12.png, id=117, 2999.205pt x 1686.3pt>
-File: pulsar_12.png Graphic file (type png)
-<use pulsar_12.png>
-Package luatex.def Info: pulsar_12.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_12.png> <a0,fr11>
-<pulsar_13.png, id=121, 2999.205pt x 1686.3pt>
-File: pulsar_13.png Graphic file (type png)
-<use pulsar_13.png>
-Package luatex.def Info: pulsar_13.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_13.png> <a0,fr12>
-<pulsar_14.png, id=125, 2999.205pt x 1686.3pt>
-File: pulsar_14.png Graphic file (type png)
-<use pulsar_14.png>
-Package luatex.def Info: pulsar_14.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_14.png> <a0,fr13>
-<pulsar_15.png, id=129, 2999.205pt x 1686.3pt>
-File: pulsar_15.png Graphic file (type png)
-<use pulsar_15.png>
-Package luatex.def Info: pulsar_15.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_15.png> <a0,fr14>
-<pulsar_16.png, id=133, 2999.205pt x 1686.3pt>
-File: pulsar_16.png Graphic file (type png)
-<use pulsar_16.png>
-Package luatex.def Info: pulsar_16.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_16.png> <a0,fr15>
-<pulsar_17.png, id=137, 2999.205pt x 1686.3pt>
-File: pulsar_17.png Graphic file (type png)
-<use pulsar_17.png>
-Package luatex.def Info: pulsar_17.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_17.png> <a0,fr16>
-<pulsar_18.png, id=141, 2999.205pt x 1686.3pt>
-File: pulsar_18.png Graphic file (type png)
-<use pulsar_18.png>
-Package luatex.def Info: pulsar_18.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_18.png> <a0,fr17>
-<pulsar_19.png, id=145, 2999.205pt x 1686.3pt>
-File: pulsar_19.png Graphic file (type png)
-<use pulsar_19.png>
-Package luatex.def Info: pulsar_19.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_19.png> <a0,fr18>
-<pulsar_20.png, id=149, 2999.205pt x 1686.3pt>
-File: pulsar_20.png Graphic file (type png)
-<use pulsar_20.png>
-Package luatex.def Info: pulsar_20.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_20.png> <a0,fr19>
-<pulsar_21.png, id=153, 2999.205pt x 1686.3pt>
-File: pulsar_21.png Graphic file (type png)
-<use pulsar_21.png>
-Package luatex.def Info: pulsar_21.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_21.png> <a0,fr20>
-<pulsar_22.png, id=157, 2999.205pt x 1686.3pt>
-File: pulsar_22.png Graphic file (type png)
-<use pulsar_22.png>
-Package luatex.def Info: pulsar_22.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_22.png> <a0,fr21>
-<pulsar_23.png, id=161, 2999.205pt x 1686.3pt>
-File: pulsar_23.png Graphic file (type png)
-<use pulsar_23.png>
-Package luatex.def Info: pulsar_23.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_23.png> <a0,fr22>
-<pulsar_24.png, id=165, 2999.205pt x 1686.3pt>
-File: pulsar_24.png Graphic file (type png)
-<use pulsar_24.png>
-Package luatex.def Info: pulsar_24.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_24.png> <a0,fr23>
-<pulsar_25.png, id=169, 2999.205pt x 1686.3pt>
-File: pulsar_25.png Graphic file (type png)
-<use pulsar_25.png>
-Package luatex.def Info: pulsar_25.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_25.png> <a0,fr24>
-<pulsar_26.png, id=173, 2999.205pt x 1686.3pt>
-File: pulsar_26.png Graphic file (type png)
-<use pulsar_26.png>
-Package luatex.def Info: pulsar_26.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_26.png> <a0,fr25>
-<pulsar_27.png, id=177, 2999.205pt x 1686.3pt>
-File: pulsar_27.png Graphic file (type png)
-<use pulsar_27.png>
-Package luatex.def Info: pulsar_27.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_27.png> <a0,fr26>
-<pulsar_28.png, id=181, 2999.205pt x 1686.3pt>
-File: pulsar_28.png Graphic file (type png)
-<use pulsar_28.png>
-Package luatex.def Info: pulsar_28.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_28.png> <a0,fr27>
-<pulsar_29.png, id=185, 2999.205pt x 1686.3pt>
-File: pulsar_29.png Graphic file (type png)
-<use pulsar_29.png>
-Package luatex.def Info: pulsar_29.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_29.png> <a0,fr28>
-<pulsar_30.png, id=189, 2999.205pt x 1686.3pt>
-File: pulsar_30.png Graphic file (type png)
-<use pulsar_30.png>
-Package luatex.def Info: pulsar_30.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_30.png> <a0,fr29>
-<pulsar_31.png, id=193, 2999.205pt x 1686.3pt>
-File: pulsar_31.png Graphic file (type png)
-<use pulsar_31.png>
-Package luatex.def Info: pulsar_31.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_31.png> <a0,fr30>
-<pulsar_32.png, id=197, 2999.205pt x 1686.3pt>
-File: pulsar_32.png Graphic file (type png)
-<use pulsar_32.png>
-Package luatex.def Info: pulsar_32.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_32.png> <a0,fr31>
-<pulsar_33.png, id=201, 2999.205pt x 1686.3pt>
-File: pulsar_33.png Graphic file (type png)
-<use pulsar_33.png>
-Package luatex.def Info: pulsar_33.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_33.png> <a0,fr32>
-<pulsar_34.png, id=205, 2999.205pt x 1686.3pt>
-File: pulsar_34.png Graphic file (type png)
-<use pulsar_34.png>
-Package luatex.def Info: pulsar_34.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_34.png> <a0,fr33>
-<pulsar_35.png, id=209, 2999.205pt x 1686.3pt>
-File: pulsar_35.png Graphic file (type png)
-<use pulsar_35.png>
-Package luatex.def Info: pulsar_35.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_35.png> <a0,fr34>
-<pulsar_36.png, id=213, 2999.205pt x 1686.3pt>
-File: pulsar_36.png Graphic file (type png)
-<use pulsar_36.png>
-Package luatex.def Info: pulsar_36.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_36.png> <a0,fr35>
-<pulsar_37.png, id=217, 2999.205pt x 1686.3pt>
-File: pulsar_37.png Graphic file (type png)
-<use pulsar_37.png>
-Package luatex.def Info: pulsar_37.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_37.png> <a0,fr36>
-<pulsar_38.png, id=221, 2999.205pt x 1686.3pt>
-File: pulsar_38.png Graphic file (type png)
-<use pulsar_38.png>
-Package luatex.def Info: pulsar_38.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_38.png> <a0,fr37>
-<pulsar_39.png, id=225, 2999.205pt x 1686.3pt>
-File: pulsar_39.png Graphic file (type png)
-<use pulsar_39.png>
-Package luatex.def Info: pulsar_39.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_39.png>
-<a0,fr38>
-<pulsar_40.png, id=229, 2999.205pt x 1686.3pt>
-File: pulsar_40.png Graphic file (type png)
-<use pulsar_40.png>
-Package luatex.def Info: pulsar_40.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_40.png> <a0,fr39>
-<pulsar_41.png, id=233, 2999.205pt x 1686.3pt>
-File: pulsar_41.png Graphic file (type png)
-<use pulsar_41.png>
-Package luatex.def Info: pulsar_41.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_41.png> <a0,fr40>
-<pulsar_42.png, id=237, 2999.205pt x 1686.3pt>
-File: pulsar_42.png Graphic file (type png)
-<use pulsar_42.png>
-Package luatex.def Info: pulsar_42.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_42.png> <a0,fr41>
-<pulsar_43.png, id=241, 2999.205pt x 1686.3pt>
-File: pulsar_43.png Graphic file (type png)
-<use pulsar_43.png>
-Package luatex.def Info: pulsar_43.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_43.png> <a0,fr42>
-<pulsar_44.png, id=245, 2999.205pt x 1686.3pt>
-File: pulsar_44.png Graphic file (type png)
-<use pulsar_44.png>
-Package luatex.def Info: pulsar_44.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_44.png> <a0,fr43>
-<pulsar_45.png, id=249, 2999.205pt x 1686.3pt>
-File: pulsar_45.png Graphic file (type png)
-<use pulsar_45.png>
-Package luatex.def Info: pulsar_45.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_45.png> <a0,fr44>
-<pulsar_46.png, id=253, 2999.205pt x 1686.3pt>
-File: pulsar_46.png Graphic file (type png)
-<use pulsar_46.png>
-Package luatex.def Info: pulsar_46.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_46.png> <a0,fr45>
-<pulsar_47.png, id=257, 2999.205pt x 1686.3pt>
-File: pulsar_47.png Graphic file (type png)
-<use pulsar_47.png>
-Package luatex.def Info: pulsar_47.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_47.png> <a0,fr46>
-<pulsar_48.png, id=261, 2999.205pt x 1686.3pt>
-File: pulsar_48.png Graphic file (type png)
-<use pulsar_48.png>
-Package luatex.def Info: pulsar_48.png  used on input line 31.
-(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
-<./pulsar_48.png> <a0,fr47>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
-
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <7> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
 
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 [2
 
-]
+] (./main.toc)
 
 [3
 
 ]
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 55.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 55.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 55.
-
+<pulsar_1.png, id=66, 2999.205pt x 1686.3pt>
+File: pulsar_1.png Graphic file (type png)
+<use pulsar_1.png>
+Package luatex.def Info: pulsar_1.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_1.png> <a0,fr0>
+<pulsar_2.png, id=70, 2999.205pt x 1686.3pt>
+File: pulsar_2.png Graphic file (type png)
+<use pulsar_2.png>
+Package luatex.def Info: pulsar_2.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_2.png> <a0,fr1>
+<pulsar_3.png, id=74, 2999.205pt x 1686.3pt>
+File: pulsar_3.png Graphic file (type png)
+<use pulsar_3.png>
+Package luatex.def Info: pulsar_3.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_3.png> <a0,fr2>
+<pulsar_4.png, id=78, 2999.205pt x 1686.3pt>
+File: pulsar_4.png Graphic file (type png)
+<use pulsar_4.png>
+Package luatex.def Info: pulsar_4.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_4.png> <a0,fr3>
+<pulsar_5.png, id=82, 2999.205pt x 1686.3pt>
+File: pulsar_5.png Graphic file (type png)
+<use pulsar_5.png>
+Package luatex.def Info: pulsar_5.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_5.png> <a0,fr4>
+<pulsar_6.png, id=86, 2999.205pt x 1686.3pt>
+File: pulsar_6.png Graphic file (type png)
+<use pulsar_6.png>
+Package luatex.def Info: pulsar_6.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_6.png> <a0,fr5>
+<pulsar_7.png, id=90, 2999.205pt x 1686.3pt>
+File: pulsar_7.png Graphic file (type png)
+<use pulsar_7.png>
+Package luatex.def Info: pulsar_7.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_7.png> <a0,fr6>
+<pulsar_8.png, id=94, 2999.205pt x 1686.3pt>
+File: pulsar_8.png Graphic file (type png)
+<use pulsar_8.png>
+Package luatex.def Info: pulsar_8.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_8.png> <a0,fr7>
+<pulsar_9.png, id=98, 2999.205pt x 1686.3pt>
+File: pulsar_9.png Graphic file (type png)
+<use pulsar_9.png>
+Package luatex.def Info: pulsar_9.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_9.png> <a0,fr8>
+<pulsar_10.png, id=102, 2999.205pt x 1686.3pt>
+File: pulsar_10.png Graphic file (type png)
+<use pulsar_10.png>
+Package luatex.def Info: pulsar_10.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_10.png> <a0,fr9>
+<pulsar_11.png, id=106, 2999.205pt x 1686.3pt>
+File: pulsar_11.png Graphic file (type png)
+<use pulsar_11.png>
+Package luatex.def Info: pulsar_11.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_11.png> <a0,fr10>
+<pulsar_12.png, id=110, 2999.205pt x 1686.3pt>
+File: pulsar_12.png Graphic file (type png)
+<use pulsar_12.png>
+Package luatex.def Info: pulsar_12.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_12.png> <a0,fr11>
+<pulsar_13.png, id=114, 2999.205pt x 1686.3pt>
+File: pulsar_13.png Graphic file (type png)
+<use pulsar_13.png>
+Package luatex.def Info: pulsar_13.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_13.png> <a0,fr12>
+<pulsar_14.png, id=118, 2999.205pt x 1686.3pt>
+File: pulsar_14.png Graphic file (type png)
+<use pulsar_14.png>
+Package luatex.def Info: pulsar_14.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_14.png> <a0,fr13>
+<pulsar_15.png, id=122, 2999.205pt x 1686.3pt>
+File: pulsar_15.png Graphic file (type png)
+<use pulsar_15.png>
+Package luatex.def Info: pulsar_15.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_15.png> <a0,fr14>
+<pulsar_16.png, id=126, 2999.205pt x 1686.3pt>
+File: pulsar_16.png Graphic file (type png)
+<use pulsar_16.png>
+Package luatex.def Info: pulsar_16.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_16.png> <a0,fr15>
+<pulsar_17.png, id=130, 2999.205pt x 1686.3pt>
+File: pulsar_17.png Graphic file (type png)
+<use pulsar_17.png>
+Package luatex.def Info: pulsar_17.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_17.png> <a0,fr16>
+<pulsar_18.png, id=134, 2999.205pt x 1686.3pt>
+File: pulsar_18.png Graphic file (type png)
+<use pulsar_18.png>
+Package luatex.def Info: pulsar_18.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_18.png> <a0,fr17>
+<pulsar_19.png, id=138, 2999.205pt x 1686.3pt>
+File: pulsar_19.png Graphic file (type png)
+<use pulsar_19.png>
+Package luatex.def Info: pulsar_19.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_19.png> <a0,fr18>
+<pulsar_20.png, id=142, 2999.205pt x 1686.3pt>
+File: pulsar_20.png Graphic file (type png)
+<use pulsar_20.png>
+Package luatex.def Info: pulsar_20.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_20.png> <a0,fr19>
+<pulsar_21.png, id=146, 2999.205pt x 1686.3pt>
+File: pulsar_21.png Graphic file (type png)
+<use pulsar_21.png>
+Package luatex.def Info: pulsar_21.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_21.png> <a0,fr20>
+<pulsar_22.png, id=150, 2999.205pt x 1686.3pt>
+File: pulsar_22.png Graphic file (type png)
+<use pulsar_22.png>
+Package luatex.def Info: pulsar_22.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_22.png> <a0,fr21>
+<pulsar_23.png, id=154, 2999.205pt x 1686.3pt>
+File: pulsar_23.png Graphic file (type png)
+<use pulsar_23.png>
+Package luatex.def Info: pulsar_23.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_23.png> <a0,fr22>
+<pulsar_24.png, id=158, 2999.205pt x 1686.3pt>
+File: pulsar_24.png Graphic file (type png)
+<use pulsar_24.png>
+Package luatex.def Info: pulsar_24.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_24.png>
+<a0,fr23>
+<pulsar_25.png, id=162, 2999.205pt x 1686.3pt>
+File: pulsar_25.png Graphic file (type png)
+<use pulsar_25.png>
+Package luatex.def Info: pulsar_25.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_25.png> <a0,fr24>
+<pulsar_26.png, id=166, 2999.205pt x 1686.3pt>
+File: pulsar_26.png Graphic file (type png)
+<use pulsar_26.png>
+Package luatex.def Info: pulsar_26.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_26.png> <a0,fr25>
+<pulsar_27.png, id=170, 2999.205pt x 1686.3pt>
+File: pulsar_27.png Graphic file (type png)
+<use pulsar_27.png>
+Package luatex.def Info: pulsar_27.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_27.png> <a0,fr26>
+<pulsar_28.png, id=174, 2999.205pt x 1686.3pt>
+File: pulsar_28.png Graphic file (type png)
+<use pulsar_28.png>
+Package luatex.def Info: pulsar_28.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_28.png> <a0,fr27>
+<pulsar_29.png, id=178, 2999.205pt x 1686.3pt>
+File: pulsar_29.png Graphic file (type png)
+<use pulsar_29.png>
+Package luatex.def Info: pulsar_29.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_29.png> <a0,fr28>
+<pulsar_30.png, id=182, 2999.205pt x 1686.3pt>
+File: pulsar_30.png Graphic file (type png)
+<use pulsar_30.png>
+Package luatex.def Info: pulsar_30.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_30.png> <a0,fr29>
+<pulsar_31.png, id=186, 2999.205pt x 1686.3pt>
+File: pulsar_31.png Graphic file (type png)
+<use pulsar_31.png>
+Package luatex.def Info: pulsar_31.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_31.png> <a0,fr30>
+<pulsar_32.png, id=190, 2999.205pt x 1686.3pt>
+File: pulsar_32.png Graphic file (type png)
+<use pulsar_32.png>
+Package luatex.def Info: pulsar_32.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_32.png> <a0,fr31>
+<pulsar_33.png, id=194, 2999.205pt x 1686.3pt>
+File: pulsar_33.png Graphic file (type png)
+<use pulsar_33.png>
+Package luatex.def Info: pulsar_33.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_33.png> <a0,fr32>
+<pulsar_34.png, id=198, 2999.205pt x 1686.3pt>
+File: pulsar_34.png Graphic file (type png)
+<use pulsar_34.png>
+Package luatex.def Info: pulsar_34.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_34.png> <a0,fr33>
+<pulsar_35.png, id=202, 2999.205pt x 1686.3pt>
+File: pulsar_35.png Graphic file (type png)
+<use pulsar_35.png>
+Package luatex.def Info: pulsar_35.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_35.png> <a0,fr34>
+<pulsar_36.png, id=206, 2999.205pt x 1686.3pt>
+File: pulsar_36.png Graphic file (type png)
+<use pulsar_36.png>
+Package luatex.def Info: pulsar_36.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_36.png> <a0,fr35>
+<pulsar_37.png, id=210, 2999.205pt x 1686.3pt>
+File: pulsar_37.png Graphic file (type png)
+<use pulsar_37.png>
+Package luatex.def Info: pulsar_37.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_37.png> <a0,fr36>
+<pulsar_38.png, id=214, 2999.205pt x 1686.3pt>
+File: pulsar_38.png Graphic file (type png)
+<use pulsar_38.png>
+Package luatex.def Info: pulsar_38.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_38.png> <a0,fr37>
+<pulsar_39.png, id=218, 2999.205pt x 1686.3pt>
+File: pulsar_39.png Graphic file (type png)
+<use pulsar_39.png>
+Package luatex.def Info: pulsar_39.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_39.png> <a0,fr38>
+<pulsar_40.png, id=222, 2999.205pt x 1686.3pt>
+File: pulsar_40.png Graphic file (type png)
+<use pulsar_40.png>
+Package luatex.def Info: pulsar_40.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_40.png> <a0,fr39>
+<pulsar_41.png, id=226, 2999.205pt x 1686.3pt>
+File: pulsar_41.png Graphic file (type png)
+<use pulsar_41.png>
+Package luatex.def Info: pulsar_41.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_41.png> <a0,fr40>
+<pulsar_42.png, id=230, 2999.205pt x 1686.3pt>
+File: pulsar_42.png Graphic file (type png)
+<use pulsar_42.png>
+Package luatex.def Info: pulsar_42.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_42.png> <a0,fr41>
+<pulsar_43.png, id=234, 2999.205pt x 1686.3pt>
+File: pulsar_43.png Graphic file (type png)
+<use pulsar_43.png>
+Package luatex.def Info: pulsar_43.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_43.png> <a0,fr42>
+<pulsar_44.png, id=238, 2999.205pt x 1686.3pt>
+File: pulsar_44.png Graphic file (type png)
+<use pulsar_44.png>
+Package luatex.def Info: pulsar_44.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_44.png> <a0,fr43>
+<pulsar_45.png, id=242, 2999.205pt x 1686.3pt>
+File: pulsar_45.png Graphic file (type png)
+<use pulsar_45.png>
+Package luatex.def Info: pulsar_45.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_45.png> <a0,fr44>
+<pulsar_46.png, id=246, 2999.205pt x 1686.3pt>
+File: pulsar_46.png Graphic file (type png)
+<use pulsar_46.png>
+Package luatex.def Info: pulsar_46.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_46.png> <a0,fr45>
+<pulsar_47.png, id=250, 2999.205pt x 1686.3pt>
+File: pulsar_47.png Graphic file (type png)
+<use pulsar_47.png>
+Package luatex.def Info: pulsar_47.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_47.png> <a0,fr46>
+<pulsar_48.png, id=254, 2999.205pt x 1686.3pt>
+File: pulsar_48.png Graphic file (type png)
+<use pulsar_48.png>
+Package luatex.def Info: pulsar_48.png  used on input line 31.
+(luatex.def)             Requested size: 2999.19772pt x 1686.2959pt.
+<./pulsar_48.png> <a0,fr47>
 
 [4
 
@@ -1685,17 +1902,224 @@ LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
 
 [6
 
-]
-<pulsartiming.png, id=491, 1391.95032pt x 517.935pt>
-File: pulsartiming.png Graphic file (type png)
-<use pulsartiming.png>
-Package luatex.def Info: pulsartiming.png  used on input line 96.
-(luatex.def)             Requested size: 273.83733pt x 101.886pt.
-
+] (./main.toc)
 
 [7
 
+]
+
+[8
+
+]
+
+[9
+
+]
+
+[10
+
+]
+
+[11
+
+]
+<pulsartiming.png, id=402, 1391.95032pt x 517.935pt>
+File: pulsartiming.png Graphic file (type png)
+<use pulsartiming.png>
+Package luatex.def Info: pulsartiming.png  used on input line 101.
+(luatex.def)             Requested size: 245.83282pt x 91.46979pt.
+
+
+[12
+
 <./pulsartiming.png>]
+
+[13
+
+]
+
+[14
+
+]
+
+[15
+
+] (./main.toc)
+
+[16
+
+]
+
+Package fontspec Info: 
+(fontspec)             Font family 'FiraSans-Light.otf(1)' created for font
+(fontspec)             'FiraSans-Light.otf' with options
+(fontspec)             [Ligatures=TeX,ItalicFont={FiraSans-LightItalic.otf},Bol
+dFont={FiraSans-Regular.otf},BoldItalicFont={FiraSans-Italic.otf},Numbers={Mono
+spaced}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Light.otf]:mode=node;script=latn;language=
+dflt;+tlig;+tnum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Light.otf]:mode=node;script=latn;language=
+dflt;+tlig;+tnum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Regular.otf]:mode=node;script=latn;languag
+e=dflt;+tlig;+tnum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Regular.otf]:mode=node;script=latn;languag
+e=dflt;+tlig;+tnum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FiraSans-LightItalic.otf]:mode=node;script=latn;lan
+guage=dflt;+tlig;+tnum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[FiraSans-LightItalic.otf]:mode=node;script=latn;lan
+guage=dflt;+tlig;+tnum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Italic.otf]:mode=node;script=latn;language
+=dflt;+tlig;+tnum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Italic.otf]:mode=node;script=latn;language
+=dflt;+tlig;+tnum;+smcp;"
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\TU/FiraSans-Light.otf(1)/m/n/10.95 Obs.
+ []
+
+
+Overfull \hbox (3.53853pt too wide) in paragraph at lines 136--136
+[]|\TU/FiraSans-Light.otf(1)/m/n/10.95 󰌜󰌴/󰌢󰌜/󰌥󰌜󰌥󰌮
+ []
+
+
+Overfull \hbox (3.53853pt too wide) in paragraph at lines 136--136
+[]|\TU/FiraSans-Light.otf(1)/m/n/10.95 󰌜󰌴/󰌢󰌜/󰌥󰌜󰌥󰌮
+ []
+
+
+Overfull \hbox (3.53853pt too wide) in paragraph at lines 136--136
+[]|\TU/FiraSans-Light.otf(1)/m/n/10.95 󰌜󰌴/󰌢󰌜/󰌥󰌜󰌥󰌮
+ []
+
+
+Overfull \hbox (3.53853pt too wide) in paragraph at lines 136--136
+[]|\TU/FiraSans-Light.otf(1)/m/n/10.95 󰌜󰌴/󰌢󰌜/󰌥󰌜󰌥󰌮
+ []
+
+
+
+[17
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]|\TU/FiraSans-Light.otf(1)/m/n/10.95 Obs.
+ []
+
+
+Overfull \hbox (3.53853pt too wide) in paragraph at lines 147--147
+[]|\TU/FiraSans-Light.otf(1)/m/n/10.95 󰌥󰌢/󰌢󰌜/󰌥󰌜󰌥󰌮
+ []
+
+
+Overfull \hbox (3.53853pt too wide) in paragraph at lines 147--147
+[]|\TU/FiraSans-Light.otf(1)/m/n/10.95 󰌥󰌢/󰌢󰌜/󰌥󰌜󰌥󰌮
+ []
+
+
+Overfull \hbox (3.53853pt too wide) in paragraph at lines 147--147
+[]|\TU/FiraSans-Light.otf(1)/m/n/10.95 󰌢󰌢/󰌢󰌢/󰌥󰌜󰌥󰌮
+ []
+
+
+Overfull \hbox (3.53853pt too wide) in paragraph at lines 147--147
+[]|\TU/FiraSans-Light.otf(1)/m/n/10.95 󰌢󰌺/󰌢󰌢/󰌥󰌜󰌥󰌮
+ []
+
+
+
+[18
+
+]
+<power_spectrum_psr1.dat.pdf, id=473, 722.7pt x 289.08pt>
+File: power_spectrum_psr1.dat.pdf Graphic file (type pdf)
+<use power_spectrum_psr1.dat.pdf>
+Package luatex.def Info: power_spectrum_psr1.dat.pdf  used on input line 159.
+(luatex.def)             Requested size: 128.0374pt x 51.2117pt.
+<power_spectrum_psr2.dat.pdf, id=474, 722.7pt x 289.08pt>
+File: power_spectrum_psr2.dat.pdf Graphic file (type pdf)
+<use power_spectrum_psr2.dat.pdf>
+Package luatex.def Info: power_spectrum_psr2.dat.pdf  used on input line 159.
+(luatex.def)             Requested size: 128.0374pt x 51.2117pt.
+<power_spectrum_psr3.dat.pdf, id=475, 722.7pt x 289.08pt>
+File: power_spectrum_psr3.dat.pdf Graphic file (type pdf)
+<use power_spectrum_psr3.dat.pdf>
+Package luatex.def Info: power_spectrum_psr3.dat.pdf  used on input line 159.
+(luatex.def)             Requested size: 128.0374pt x 51.2117pt.
+<power_spectrum_psr4.dat.pdf, id=476, 722.7pt x 289.08pt>
+File: power_spectrum_psr4.dat.pdf Graphic file (type pdf)
+<use power_spectrum_psr4.dat.pdf>
+Package luatex.def Info: power_spectrum_psr4.dat.pdf  used on input line 159.
+(luatex.def)             Requested size: 128.0374pt x 51.2117pt.
+<power_spectrum_psr5.dat.pdf, id=477, 722.7pt x 289.08pt>
+File: power_spectrum_psr5.dat.pdf Graphic file (type pdf)
+<use power_spectrum_psr5.dat.pdf>
+Package luatex.def Info: power_spectrum_psr5.dat.pdf  used on input line 159.
+(luatex.def)             Requested size: 128.0374pt x 51.2117pt.
+
+Overfull \vbox (0.9874pt too high) detected at line 159
+ []
+
+
+
+[19
+
+<./power_spectrum_psr1.dat.pdf><./power_spectrum_psr2.dat.pdf><./power_spectrum_
+psr3.dat.pdf><./power_spectrum_psr4.dat.pdf><./power_spectrum_psr5.dat.pdf>]
+
+Package fontspec Info: 
+(fontspec)             Font family 'FiraSans-Light.otf(2)' created for font
+(fontspec)             'FiraSans-Light.otf' with options
+(fontspec)             [Ligatures=TeX,ItalicFont={FiraSans-LightItalic.otf},Bol
+dFont={FiraSans-Regular.otf},BoldItalicFont={FiraSans-Italic.otf},Numbers={Mono
+spaced},Numbers={Monospaced}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Light.otf]:mode=node;script=latn;language=
+dflt;+tlig;+tnum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Light.otf]:mode=node;script=latn;language=
+dflt;+tlig;+tnum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Regular.otf]:mode=node;script=latn;languag
+e=dflt;+tlig;+tnum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Regular.otf]:mode=node;script=latn;languag
+e=dflt;+tlig;+tnum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FiraSans-LightItalic.otf]:mode=node;script=latn;lan
+guage=dflt;+tlig;+tnum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[FiraSans-LightItalic.otf]:mode=node;script=latn;lan
+guage=dflt;+tlig;+tnum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Italic.otf]:mode=node;script=latn;language
+=dflt;+tlig;+tnum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[FiraSans-Italic.otf]:mode=node;script=latn;language
+=dflt;+tlig;+tnum;+smcp;"
+
+
+
+[20
+
+]
 \tf@nav=\write7
 
 \openout7 = main.nav
@@ -1710,41 +2134,49 @@ Package luatex.def Info: pulsartiming.png  used on input line 96.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2A27D8E326490DEE55757663B3AE94A3;201.
+(rerunfilecheck)             Checksum: 63DFADBDE34E6C582097903307E0866F;279.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 37505 strings out of 475512
- 125165,1977958 words of node,token memory allocated
- 4228 words of node memory still in use:
-   62 hlist, 12 vlist, 12 rule, 13 disc, 7 local_par, 6 math, 119 glue, 34 kern,
- 28 penalty, 140 glyph, 129 attribute, 74 glue_spec, 129 attribute_list, 4 write
-, 3 pdf_literal, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_action, 40 pdf_colorsta
-ck, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
-   avail lists: 1:3,2:784,3:488,4:341,5:306,6:62,7:2788,8:59,9:646,10:15,11:160
- 59502 multiletter control sequences out of 65536+600000
- 66 fonts using 4928175 bytes
- 128i,16n,116p,692b,919s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/opentype/public/lm/lmsans8-oblique.otf></usr/share/texmf
-/fonts/opentype/public/lm/lmsans10-oblique.otf></usr/share/texmf/fonts/opentype/
-public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans
-8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-regular.otf></
-usr/share/texmf/fonts/opentype/public/lm/lmsans12-regular.otf></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy8.pfb>
-Output written on main.pdf (7 pages, 2708921 bytes).
+ 43995 strings out of 475512
+ 125030,1977958 words of node,token memory allocated
+ 3973 words of node memory still in use:
+   56 hlist, 10 vlist, 13 rule, 9 disc, 2 local_par, 12 math, 158 glue, 28 kern,
+ 10 penalty, 81 glyph, 128 attribute, 111 glue_spec, 128 attribute_list, 4 write
+, 1 pdf_literal, 2 pdf_action, 16 pdf_colorstack nodes
+   avail lists: 1:4,2:244,3:184,4:257,5:282,6:44,7:1687,8:59,9:489,10:14,11:106
+ 65836 multiletter control sequences out of 65536+600000
+ 97 fonts using 19577071 bytes
+ 128i,15n,138p,1971b,979s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/opentype/public/fira/FiraSans-LightItalic.o
+tf></usr/share/texlive/texmf-dist/fonts/opentype/public/fira/FiraMono-Bold.otf><
+/usr/share/texlive/texmf-dist/fonts/opentype/public/fira/FiraSans-Light.otf></us
+r/share/texlive/texmf-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/symbols/msam10.pfb>
+Output written on main.pdf (20 pages, 3113583 bytes).
 
-PDF statistics: 584 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 721 PDF objects out of 1000 (max. 8388607)
  368 compressed objects within 4 object streams
- 17 named destinations out of 1000 (max. 131072)
- 627 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 44 named destinations out of 1000 (max. 131072)
+ 555 words of extra memory for PDF output out of 10000 (max. 100000000)
 
